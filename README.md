@@ -1,10 +1,6 @@
-# Secure Coding Review – Python Example
+# 🛡️ CodeAlpha Secure Coding Review (Python)
 
-This repository contains a secure coding review of a simple Flask application.
+This repository is part of my **CodeAlpha Internship - Secure Coding Review Task**.  
+It demonstrates insecure vs secure coding practices in a simple Python Flask app.
 
-## Contents
-- **Secure_Coding_Review.md** – Full review document with findings and remediation.
-- **app.py** – Sample vulnerable Python Flask code used for review.
-- **requirements.txt** – Dependencies for running the app and tools.
-- **bandit_report.txt** – Example static analysis report.
 
